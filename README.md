@@ -82,10 +82,10 @@ To run this project locally, follow these steps:
 
    
 ### How to Use:
--Launch the Streamlit app by running streamlit run app.py after installation.
--On the homepage, select a movie from the dropdown list.
--Click on the "Recommend" button.
--View the top 5 recommended movies along with their posters.
+- Launch the Streamlit app by running streamlit run app.py after installation.
+- On the homepage, select a movie from the dropdown list.
+- Click on the "Recommend" button.
+- View the top 5 recommended movies along with their posters.
 
 
 ![Screenshot 2024-11-07 005057](https://github.com/user-attachments/assets/15b15bed-94f8-4da7-b625-c47fddc47832)
@@ -98,12 +98,12 @@ To run this project locally, follow these steps:
 
 
 ### Future Improvements:
--Collaborative Filtering: In addition to content-based filtering, collaborative filtering can be implemented to improve recommendations by considering users' preferences.
--Better UI/UX: Enhance the user interface with more interactive and customizable options.
--User Ratings: Implement user-based ratings to personalize recommendations even further.
+- **Collaborative Filtering**: In addition to content-based filtering, collaborative filtering can be implemented to improve recommendations by considering users' preferences.
+- **Better UI/UX**: Enhance the user interface with more interactive and customizable options.
+- **User Ratings**: Implement user-based ratings to personalize recommendations even further.
 
 ### Acknowledgements:
--TMDb API: For providing the movie dataset and poster images.
--Streamlit: For the easy-to-use framework to build the web app.
--Scikit-learn: For providing the necessary tools to compute cosine similarity and handle machine learning operations.
+- **TMDb API**: For providing the movie dataset and poster images.
+- **Streamlit**: For the easy-to-use framework to build the web app.
+- **Scikit-learn**: For providing the necessary tools to compute cosine similarity and handle machine learning operations.
 
